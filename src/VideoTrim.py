@@ -1,3 +1,14 @@
+"""Video Trimmer
+
+This application can be used to to trim from the start and end of a recording
+(Please ensure 'ffmpeg' is installed before running this application)
+
+
+Version: 0.0.1
+License: MIT License
+URL: https://github.com/laidbackcoder/VideoTrim
+"""
+
 import tkinter as tk
 import ttkbootstrap as ttk
 from tkinter import filedialog, messagebox
