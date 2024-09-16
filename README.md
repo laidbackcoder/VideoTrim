@@ -5,3 +5,6 @@
 A GUI application to trim from the start and end of a recording.
 
 (Supports .mp4, .m4v and .ts files)
+
+
+PLEASE NOTE: This is very much a work in progress!
